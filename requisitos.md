@@ -10,6 +10,8 @@
 
 4-Deve ter um gerador de arquivos pdf para os resultados em forma de relatórios.
 
+5- A inserção de imagens pelo usuário deve ser simples e intuitiva.
+
 ## **Requisitos Não Funcionais:**
 
 1-Deverá ser garantinda a eficiência do sistema, de forma que a UX seja dinâmica, acessível e facilmente entendida.
