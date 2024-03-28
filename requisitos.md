@@ -3,7 +3,7 @@
 # Requisitos Funcionais:
 
 
-1 - O sistema deve listar os serviços, os clientes e as informações fornecidas pelos mesmo, de forma que organize e de praticidade aos processos.
+1 - O sistema deve listar os clientes e as informações fornecidas pelos mesmo, de forma que organize e de praticidade aos processos.
 
 2 - O sistema deve possibilitar o download das imagens.
 
