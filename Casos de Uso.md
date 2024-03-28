@@ -9,6 +9,7 @@
 ## Caso de Uso [Envio de Resultados] (https://github.com/FellipeV540/projeto_dosimagem/blob/inicio-casos-uso/caso%20de%20uso-envio%20de%20resultados.md)
    Caso de Uso onde um administrador envia os resultados dos exames para o cliente.
 
+
 ## Caso de Uso [Visualização de Lista de Pacientes]
    Exibir uma lista de pacientes cadastrados no sistema, incluindo detalhes como nome, idade, histórico médico e informações de contato.
 
