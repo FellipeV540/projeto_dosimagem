@@ -22,5 +22,6 @@
 **Pós-condições**:
 
 -   O paciente enviou com sucesso as imagens dos exames médicos para a clínica.
+-   O paciente recebe um e-mail de confirmação.
 
 **Descrição**: O caso de uso "Envio de Imagens pelo cliente" descreve o processo pelo qual o cliente deve passar para realizar o envio de imagens para a clínica. Esse caso de uso é importante pois é a partir dele que a clínica recebe as imagens dos exames do cliente e então realiza as analises das imagens.
