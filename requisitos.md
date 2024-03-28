@@ -18,6 +18,8 @@ Requisitos Funcionais:
 7 - Para maior segurança, apenas pessoas autorizadas devem acessar conteúdos sensíveis.
 
 Requisitos Não Funcionais:
+
+
 1 - O sistema deve possuir uma interface amigável e intuitiva, de forma que leigos sejam capaz de entender, e pessoas experientes também se sintam confortáveis.
 
 2 - É fundamental que haja backups com determinada frequência, além de outras medidas de prevenção, para garantir a segurança do sistema.
