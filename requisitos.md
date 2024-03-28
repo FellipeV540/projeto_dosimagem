@@ -4,7 +4,7 @@
 
 1 - O sistema deve listar os clientes o envio de imagens, de forma que organize e de praticidade aos processos.
 
-2 - O sistema deve fazer download das imagens.
+2 - O sistema deve ter um botão responsável por fazer download das imagens.
 
 3 - O sistema deve ter uma interface para a devolução de relatórios.
 
