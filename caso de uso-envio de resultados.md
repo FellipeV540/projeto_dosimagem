@@ -12,7 +12,7 @@
 
 1.  A clínica Dosimagem acessa o sistema de gerenciamento.
 2.  O sistema exibe uma lista de clientes com exames pendentes de envio de relatórios.
-3.  A clínica Dosimagem seleciona o cliente para o qual deseja enviar o relatório.
+3.  A clínica Dosimagem seleciona um cliente da lista para o qual deseja enviar o relatório.
 4.  O sistema mostra os resultados dos exames do cliente selecionado.
 5.  A clínica revisa os resultados e elabora o relatório médico correspondente.
 6.  A clínica anexa o relatório ao sistema.
