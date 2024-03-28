@@ -26,4 +26,4 @@
 
 4 - O sistema utilizará o React, que é uma biblioteca da linguagem de programação JavaScript.
 
-
+5-O sistema deve ser simples de manter e atualizar, por isso o código deve ser bem documentado.
