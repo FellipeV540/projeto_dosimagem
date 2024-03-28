@@ -15,6 +15,8 @@
 7.  Se as informações forem válidas, o sistema registra o novo cliente  no banco de dados da clínica.
 8.  O sistema envia uma mensagem de confirmação de cadastro para o e-mail fornecido pelo cliente.
 
-**Pós-condições**: O cliente é cadastrado com sucesso no sistema da clínica de exames médicos e recebe uma confirmação por e-mail.
+**Pós-condições**: 
+- O cliente recebe um e-mail de confirmação.
+- O cliente confirma e é cadastrado com sucesso.
 
 **Descrição**: O caso de uso "Fazer Cadastro na Clínica de Exames Médicos" descreve o processo pelo qual um cliente se cadastra no sistema da clínica de exames médicos, fornecendo as informações necessárias para criar uma conta. Este caso de uso é essencial para permitir que o cliente tenha acesso aos serviços oferecidos pela clínica, como agendar exames e visualizar resultados.
