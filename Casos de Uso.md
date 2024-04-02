@@ -1,5 +1,4 @@
-## Caso de Uso [Cadastro Online](https://github.com/FellipeV540/projeto_dosimagem/blob/inicio-casos-uso/casos%20de%20uso-Cadastro%20Online..md)
-   Caso de uso onde o cliente da clínica faz seu cadastro e acessa informações restritas e funcionalidades específicas.
+
 
 ## Caso de Uso [Login](https://github.com/FellipeV540/projeto_dosimagem/blob/inicio-casos-uso/caso%20de%20uso-login.md)
    resumo
