@@ -17,4 +17,4 @@
 
 
 ## Caso de Uso [Segurança e Privacidade](https://github.com/FellipeV540/projeto_dosimagem/blob/inicio-casos-uso/caso%20de%20uso-seguran%C3%A7a%20e%20privacidade.md)
-   resumo
+   Nesse caso de uso, o Administrador do Sistema configura e gerencia as políticas de acesso dentro do sistema da clínica de exames. Isso inclui definir quais usuários têm permissão para visualizar ou modificar informações sensíveis, como resultados de exames e históricos médicos dos pacientes. O sistema autentica os usuários e verifica suas permissões ao tentar acessar conteúdos sensíveis, garantindo que apenas pessoas autorizadas possam interagir com essas informações. Esse processo garante a segurança e confidencialidade dos dados, mantendo o acesso restrito conforme as políticas estabelecidas pelo administrador do sistema.
